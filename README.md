@@ -28,16 +28,16 @@
 #### The "code" folder has this files:
 file  | type | description | can_delete
 ------------- | ------------- | ------------- | -------------
-Graphs user_1 - user_2_example  | folder | folder that generates automatically with name from users and stores Graphs  | ✅
-_chat_example.txt  | .txt | example from what your chat file should be like  | ✅
-chat_prety - user_1 - user_2_example.xlsx | .xlsx | example from what will be generated from your chat | ✅
-create_visuualization.py | python script |scrpit to read your chat, create a excel file and graphs | ❌
-whats_app_data.py | python script | module with the used functions | ❌
-requirements | .txt | libaries used to run code | ❌
+Graphs user_1 - user_2_example  | folder | folder that generates automatically with name from users and stores Graphs  | ⠀⠀⠀✅
+_chat_example.txt  | .txt | example from what your chat file should be like  | ⠀⠀⠀✅
+chat_prety - user_1 - user_2_example.xlsx | .xlsx | example from what will be generated from your chat | ⠀⠀⠀✅
+create_visuualization.py | python script |scrpit to read your chat, create a excel file and graphs | ⠀⠀⠀❌
+whats_app_data.py | python script | module with the used functions | ⠀⠀⠀❌
+requirements | .txt | libaries used to run code | ⠀⠀⠀❌
     2 - Installing requirements
         2.1 - open cmd and type:
             pip install -r /path/to/requirements.txt
     3 - Paste your file downloaded from chat like this "_chat.txt"
     4 - Finally, run "run.py"
 
-
+---
