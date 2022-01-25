@@ -38,6 +38,6 @@ requirements | .txt | libaries used to run code | ⠀⠀⠀❌
         2.1 - open cmd and type:
             pip install -r /path/to/requirements.txt
     3 - Paste your file downloaded from chat like this "_chat.txt"
-    4 - Finally, run "run.py"
+    4 - Finally, run "create_visuualization.py.py"
 
 ---
