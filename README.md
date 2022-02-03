@@ -11,7 +11,7 @@
 - 📝 Save your .txt chat file to an excel file having:
     - 📅 date from the message
     - 🕗 time that message was sent
-    - 👫 which user sended the message
+    - 🧍🧍 which user sended the message
     - 💬 message
     - 🔊 type (text, audio, image...) 🖼️
 - 📊 Creates Graphs for you visualize data from chat
